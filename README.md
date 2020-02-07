@@ -1,0 +1,2 @@
+# CredsSaver
+The C# application will store your private credentials for websites and store them into a mysql database on your localhost. What's most unique about this app is that is generates a random string allowing you to have a strong password so it'll be harder for password crackers to get into your account. It also prevents anyone from sending you malicious software to get into your accounts because all your information will be stored on your own database on your localhost.
