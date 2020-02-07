@@ -21,7 +21,7 @@ namespace Credintials
         private void button1_Click(object sender, EventArgs e)
         {
             string user = "admin";
-            string pass = "admin";
+            string pass = user;
             if (textBox1.Text == user && textBox2.Text == pass)
             {
                 attempts = 0;
